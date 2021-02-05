@@ -1,0 +1,2 @@
+# MDMotionOrientation
+通过加速计采集设备各轴上的加速度来计算当前设备的方向
